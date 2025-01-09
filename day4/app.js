@@ -17,3 +17,4 @@
 // assignment 1:
 // write a java script program to find the factors of a given number
 // 12 - 2, 3, 4, 6
+
