@@ -65,18 +65,18 @@
 
 // ----------- Arrow function
 
-let x = /* () */ _ =>{console.log("Arrow function")}
-x()
+// let x = /* () */ _ =>{console.log("Arrow function")}
+// x()
 
-let y = (a,b) => {console.log(a+b)}
-y(2,3)
+// let y = (a,b) => {console.log(a+b)}
+// y(2,3)
 
-let z = _ => console.log("Hello")
-z()
+// let z = _ => console.log("Hello")
+// z()
 
 
-let a = (a,b) => {return a+b}
-console.log(a(20,30))
+// let a = (a,b) => {return a+b}
+// console.log(a(20,30))
 
-let b = (a,b) => a*b
-console.log(b(20,30))
+// let b = (a,b) => a*b
+// console.log(b(20,30))
