@@ -32,25 +32,6 @@ let arr =[
 ];
 
 
-// let table = document.createElement("table")
-// let trow = document.createElement("tr")
-// let thead1 = document.createElement("th")
-// let thead2 = document.createElement("th")
-// let trow2 = document.createElement("tr")
-// let thead21 = document.createElement("th")
-// let thead22 = document.createElement("th")
-// let tbody = document.createElement("td")
-
-// table.appendChild(trow)
-// trow.appendChild(thead1)
-// trow.appendChild(thead2)
-// table.appendChild(trow2)
-// trow2.appendChild(thead21)
-// trow2.appendChild(thead22);
-
-
-
-
 [...arr].map((users)=>{
     let store  = document.getElementById("store");
     store.innerHTML += `
